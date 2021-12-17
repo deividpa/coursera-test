@@ -1,0 +1,29 @@
+body {
+    font-family:helvetica;
+    font-size:15px;
+}
+
+#sect1 {
+    background-color:#f80;
+    padding:20px;
+}
+
+#sect2 {
+    background-color:#EEE;
+    padding:30px;
+}
+
+#sect3 {
+    background-color:rgb(143, 197, 73);
+    padding:30px;
+}
+
+#sect4 {
+    background-color:rgb(0, 255, 255);
+    padding:30px;  
+}
+
+#sect5 {
+    background-color:rgb(255, 143, 199);
+    padding:30px;  
+}
